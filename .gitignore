@@ -1,0 +1,4 @@
+#this file will contain the files/pattern of files that will be ignore in git commit.
+*.pdf
+*.tex
+
